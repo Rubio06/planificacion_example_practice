@@ -1,0 +1,46 @@
+{
+    "tabla1": [
+        {
+            "Nombre": "Juan",
+            "Apellido": "Rubio",
+            "Edad": 28
+        },
+        {
+            "Nombre": "Ana",
+            "Apellido": "Carlosne",
+            "Edad": 24
+        },
+        {
+            "Nombre": "Luis",
+            "Apellido": "Ternero",
+            "Edad": 35
+        }
+    ],
+    "tabla2": [
+        {
+            "Ciudad": "Madrid",
+            "Pa\u00eds": "Espa\u00f1a",
+            "Poblaci\u00f3n": 3200000
+        },
+        {
+            "Ciudad": "Barcelona",
+            "Pa\u00eds": "Espa\u00f1a",
+            "Poblaci\u00f3n": 1600000
+        },
+        {
+            "Ciudad": "Valencia",
+            "Pa\u00eds": "Espa\u00f1a",
+            "Poblaci\u00f3n": 800000
+        }
+    ],
+    "tabla3": [
+        {
+            "Comandos": "f2",
+            "Review": "m5"
+        },
+        {
+            "Comandos": "f3",
+            "Review": "m6"
+        }
+    ]
+}
